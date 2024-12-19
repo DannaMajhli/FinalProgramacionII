@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\prodbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:prodbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\arbolproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:arbolproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|c:\\users\\danna\\onedrive\\documentos\\codigos c\u002B\u002B\\programacion ii\\codigos c#\\proyectofinal_programacion\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\formventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:formventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\extbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:extbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\datoos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:datoos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2FBC-9D85-42F6-88D5-D4721CA58D5E}|ProyectoFinal_Programacion.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formadmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadmin.cs",
+              "RelativeDocumentMoniker": "Formadmin.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formadmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:42:14.162Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdBD.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ProdBD.cs",
+              "RelativeDocumentMoniker": "ProdBD.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ProdBD.cs",
+              "RelativeToolTip": "ProdBD.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:43:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formmod.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formmod.cs",
+              "RelativeDocumentMoniker": "Formmod.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formmod.cs",
+              "RelativeToolTip": "Formmod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:08:24.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formadmin.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadmin.cs",
+              "RelativeDocumentMoniker": "Formadmin.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadmin.cs",
+              "RelativeToolTip": "Formadmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:44:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formventa.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.cs",
+              "RelativeDocumentMoniker": "Formventa.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.cs",
+              "RelativeToolTip": "Formventa.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:18:04.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:38:09.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArbolProductos.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ArbolProductos.cs",
+              "RelativeDocumentMoniker": "ArbolProductos.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ArbolProductos.cs",
+              "RelativeToolTip": "ArbolProductos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:58:11.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:03:18.772Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formmod.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formmod.cs",
+              "RelativeDocumentMoniker": "Formmod.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formmod.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formmod.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:01:09.876Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formventa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.cs",
+              "RelativeDocumentMoniker": "Formventa.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.cs [Design]",
+              "RelativeToolTip": "Formventa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:10:38.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Formadd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadd.cs",
+              "RelativeDocumentMoniker": "Formadd.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formadd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:29:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:06:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:23:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:18:03.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormGrafica.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\FormGrafica.cs",
+              "RelativeDocumentMoniker": "FormGrafica.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\FormGrafica.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormGrafica.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:51:55.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormGrafica.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\FormGrafica.cs",
+              "RelativeDocumentMoniker": "FormGrafica.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\FormGrafica.cs",
+              "RelativeToolTip": "FormGrafica.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:54:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Formadd.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadd.cs",
+              "RelativeDocumentMoniker": "Formadd.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formadd.cs",
+              "RelativeToolTip": "Formadd.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:35:30.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListaEnlazada.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ListaEnlazada.cs",
+              "RelativeDocumentMoniker": "ListaEnlazada.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ListaEnlazada.cs",
+              "RelativeToolTip": "ListaEnlazada.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:16:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdmonBD.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\AdmonBD.cs",
+              "RelativeDocumentMoniker": "AdmonBD.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\AdmonBD.cs",
+              "RelativeToolTip": "AdmonBD.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:56:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Formventa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.Designer.cs",
+              "RelativeDocumentMoniker": "Formventa.Designer.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Formventa.Designer.cs",
+              "RelativeToolTip": "Formventa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:32:32.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "registros.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\registros.cs",
+              "RelativeDocumentMoniker": "registros.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\registros.cs",
+              "RelativeToolTip": "registros.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:55:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:40:16.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "products.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\products.cs",
+              "RelativeDocumentMoniker": "products.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\products.cs",
+              "RelativeToolTip": "products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:40:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExtBD.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ExtBD.cs",
+              "RelativeDocumentMoniker": "ExtBD.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\ExtBD.cs",
+              "RelativeToolTip": "ExtBD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:00:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "datoos.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\datoos.cs",
+              "RelativeDocumentMoniker": "datoos.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\datoos.cs",
+              "RelativeToolTip": "datoos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:59:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\danna\\OneDrive\\Documentos\\Codigos C\u002B\u002B\\Programacion II\\Codigos C#\\ProyectoFinal_Programacion\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:21:44.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
